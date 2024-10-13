@@ -1,5 +1,5 @@
 # React + Vite
 
 To run this project use; <br/>
-npm install
+npm install <br/>
 npm run dev
